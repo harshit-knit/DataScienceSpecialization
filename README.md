@@ -20,3 +20,4 @@ Materials are under development and subject to change.
 
 These course materials are available under the Creative Commons Attribution NonCommercial ShareAlike (CC-NC-SA) license (http://www.tldrlegal.com/l/CC-NC-SA). 
 
+<a href="https://www.buymeacoffee.com/cognitivecamp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
